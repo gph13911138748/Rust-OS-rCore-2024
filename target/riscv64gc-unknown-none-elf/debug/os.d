@@ -1,0 +1,1 @@
+/Users/gaopenghao/OrbStack/ubuntu/home/gaopenghao/rust_program/Rust-OS-rCore-2024/target/riscv64gc-unknown-none-elf/debug/os: /Users/gaopenghao/OrbStack/ubuntu/home/gaopenghao/rust_program/Rust-OS-rCore-2024/src/lang_item.rs /Users/gaopenghao/OrbStack/ubuntu/home/gaopenghao/rust_program/Rust-OS-rCore-2024/src/main.rs
